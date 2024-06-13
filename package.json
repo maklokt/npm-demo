@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "stringstream": "0.0.5"
+    "stringstream": "file:./seal-patches/stringstream-0.0.5-sp1.tgz"
   }
 }
